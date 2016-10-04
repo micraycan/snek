@@ -1,1 +1,1 @@
-"# snek" 
+snek is life
